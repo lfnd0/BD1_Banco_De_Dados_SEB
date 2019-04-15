@@ -1,6 +1,6 @@
 # Sistema Escolar Boletim - SEB
 
-> O SEB é uma plataforma desenvolvida com a linguagem de programação Java e o sistema de gestão de base de dados MySQL, sendo o objetivo principal da aplicação disponibilizar o cadastro de alunos, professores e disciplinas, além de armazenar e realizar os cálculos das notas dos respectivos discentes do Instituto Municipal de Arapiraca - IMA (instituição fictícia).
+> O SEB é uma plataforma desenvolvida com a linguagem de programação Java e o sistema de gestão de base de dados MySQL, sendo o objetivo principal da aplicação disponibilizar o cadastro de alunos, professores e disciplinas, além de armazenar as notas dos respectivos discentes do Instituto Municipal de Arapiraca - IMA (instituição fictícia).
 
 
 ## Ambiente para utilização do SEB
