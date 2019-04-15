@@ -16,7 +16,7 @@ Para testar/utilizar a aplicação em um dispositivo desktop, será necessária 
 
 Após a instalação e configuração das ferramentas citadas anteriormente, abra o ``MySQL Workbench``, crie um usuário e uma conexão no MySQL com ``nome``, ``login`` e ``senha`` "es1", adicione ao mesmo todos os privilégios de usuário. Ao finizar esta tarefa, realize a importação do banco de dados do SEB a partir do arquivo ``sebBD.sql`` no localizado no diretório ``database`` do projeto.
 
-Por fim, localize o arquivo `seb.jar`, abra o terminal do seu sistema operacional no mesmo diretório onde encontra-se o referido arquivo, então execute o seguinte comando:
+Por fim localize o arquivo `seb.jar`, abra o terminal do seu sistema operacional no mesmo diretório onde encontra-se o referido arquivo, então execute o seguinte comando:
 
 ```sh
 java -jar seb.jar
@@ -34,7 +34,7 @@ O ``Menu Principal`` do SEB aparecerá para você com as seguintes opções:
 
  Escolha o perfil ``3 - Aluno`` digitando ``3``. Nos campos de login insura "jose" e em senha insira "123". Agora, a partir do acesso a este usuário, usufrua das funcionalidades implementadas para o professor.
 
- **Observação**: a senha padrão para os demais usuários é "123".
+ **Observação**: a senha padrão para os demais usuários aluno e professor é "123".
 
 
 # Time de desenvolvimento
