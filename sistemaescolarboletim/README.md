@@ -1,4 +1,5 @@
-# Sistema Escolar Boletim - SEB
+# [Sistema Escolar Boletim - SEB](https://github.com/lfnd0/BD1_Sistema_Escolar_Boletim.git)
+
 
 > O SEB é uma plataforma desenvolvida com a linguagem de programação Java e o sistema de gestão de base de dados MySQL, sendo o objetivo principal da aplicação disponibilizar o cadastro de alunos, professores e disciplinas, além de armazenar as notas dos respectivos discentes do Instituto Municipal de Arapiraca - IMA (instituição fictícia).
 
@@ -16,7 +17,7 @@ Para testar/utilizar a aplicação em um dispositivo desktop, será necessária 
 
 Após a instalação e configuração das ferramentas citadas anteriormente, abra o ``MySQL Workbench``, crie um usuário e uma conexão no MySQL com ``nome``, ``login`` e ``senha`` "es1", adicione ao mesmo todos os privilégios de usuário. Ao finizar esta tarefa, realize a importação do banco de dados do SEB a partir do arquivo ``sebBD.sql`` no localizado no diretório ``database`` do projeto.
 
-Por fim localize o arquivo `seb.jar`, abra o terminal do seu sistema operacional no mesmo diretório onde encontra-se o referido arquivo, então execute o seguinte comando:
+Por fim localize o arquivo `seb_v0.1.0.jar`, abra o terminal do seu sistema operacional no mesmo diretório onde encontra-se o referido arquivo, então execute o seguinte comando:
 
 ```sh
 java -jar seb.jar
