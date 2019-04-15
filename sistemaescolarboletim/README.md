@@ -20,7 +20,7 @@ Após a instalação e configuração das ferramentas citadas anteriormente, abr
 Por fim localize o arquivo `seb_v0.1.0.jar`, abra o terminal do seu sistema operacional no mesmo diretório onde encontra-se o referido arquivo, então execute o seguinte comando:
 
 ```sh
-java -jar seb.jar
+java -jar seb_v0.1.0.jar
 ```
 
 O ``Menu Principal`` do SEB aparecerá para você com as seguintes opções:
