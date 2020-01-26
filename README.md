@@ -38,8 +38,8 @@ O ``Menu Principal`` do SEB aparecerá para você com as seguintes opções:
  **Observação**: a senha padrão para os demais usuários aluno e professor é "123".
 
 
-# Time de desenvolvimento
+## Time de desenvolvimento
 
-  * [Danillo Rodrigues Abreu](https://github.com/danilo100kl)
-  * [João Marcos Oliveira Farias](https://github.com/JoaoMarcoss)
-  * [Luiz Fernando da Silva](https://github.com/lfnd0)
+  * [Danillo Rodrigues](https://github.com/danillobr)
+  * [João Marcos](https://github.com/joaomarcoos)
+  * [Luiz Fernando](https://github.com/lfnd0)
